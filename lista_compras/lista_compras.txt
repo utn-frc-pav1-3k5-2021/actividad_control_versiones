@@ -1,0 +1,9 @@
+Listado
+
+Leche
+Pan
+Azucar
+Carne
+Verduras
+Frutas
+Agua
