@@ -1,2 +1,2 @@
 # actividad_control_versiones
-Norberto Ariel / Ponce / 16467
+Norberto Ariel - Ponce - 16467
