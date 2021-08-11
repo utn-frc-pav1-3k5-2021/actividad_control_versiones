@@ -1,3 +1,6 @@
 manzana
 aceite
 agua
+peras
+gaseosa
+agua
