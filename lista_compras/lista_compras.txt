@@ -1,3 +1,6 @@
-manzana
-aceite
-agua
+Lista Compras
+Harina
+Mandarinas
+Aceite
+Huevos
+Pan
