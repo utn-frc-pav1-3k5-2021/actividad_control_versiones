@@ -1,3 +1,5 @@
 manzana
 aceite
 agua
+Huevos
+Avena
