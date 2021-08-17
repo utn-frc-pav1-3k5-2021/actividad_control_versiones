@@ -1,3 +1,4 @@
-manzana
 aceite
-agua
+pera
+limon
+gaseosa
